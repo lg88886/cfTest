@@ -9,6 +9,8 @@
 - [CF Speed DNS](https://ip.164746.xyz/) - 提供每5分钟自动更新的优选 IP
 - [WeTest](https://www.wetest.vip/page/cloudflare/address_v4.html) - 提供详细的 IP 测速数据
 
+  https://ipdb.030101.xyz/
+
 特别感谢以上服务提供者为社区做出的贡献！
 
 ## 功能特点
@@ -96,3 +98,4 @@ MIT License
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
